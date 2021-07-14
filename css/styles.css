@@ -26,6 +26,7 @@
     max-width: 500px;
     width: 50%;
     padding-top: 60px ;
+    padding-bottom: 50px;
 }
 .one{
     padding-left: 150px;
@@ -49,3 +50,52 @@
 .paragraph3{
     padding-top: 20px;
 }
+.whole{
+    display: flex;
+    width: 80%;
+    padding-bottom: 60px;
+}
+#all{
+    letter-spacing: 2px;
+    font-size: 20px;
+    line-height: 300%;
+    padding-top: 30px;
+    
+}
+.image3{
+    max-width: 50%;
+    max-width: 600px;
+    padding-left: 200px;  
+}
+.hr{
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+    padding-top: 30px ;
+    padding-bottom: 30px;
+}
+.menu1{
+    text-align: center!important;
+    font-size: 40px;
+    letter-spacing: 2px;
+   
+
+}
+#grey{
+    color: grey;
+}
+.hr1{
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+    padding-top: 30px ;
+    padding-bottom: 30px;
+}
+
+
+
+
+
+
+
+

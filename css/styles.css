@@ -1,9 +1,51 @@
 .navbar2{
     display: flex;
+    padding-bottom: 30px;
+    padding-top: 20px;
+
+}
+.navbar{
+    letter-spacing: 2px;
+}
+.navbar1{
+    letter-spacing: 2px;
+        
 }
 .image{
-    
+    align-items: center;
+    padding-left: 150px;
 }
+
 .catering{
-    display: flex;
+    margin: auto ;
+    justify-content: space-around;
+    width: 60%; 
+    display: flex; 
+}
+.image2{
+    max-width: 500px;
+    width: 50%;
+    padding-top: 60px ;
+}
+.one{
+    padding-left: 150px;
+    padding-top: 70px;
+}
+.about2{
+    letter-spacing: 2px;
+    font-size: 40px;
+    padding-left: 60px;
+
+}
+.tradition{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 70px;
+    letter-spacing: 2px;
+}
+.paragraph1{
+    line-height: 150%;
+}
+.paragraph3{
+    padding-top: 20px;
 }

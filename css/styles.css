@@ -15,6 +15,7 @@
 
 body{
     background: white;
+    margin: 0;
 }
 .navbar{
     letter-spacing: 2px;
@@ -26,8 +27,42 @@ body{
     background: white;
     word-spacing: 30px;
     padding-right: 20px;
+    display: flex;
         
 }
+.about:hover{
+    color: #000;
+    background-color: #CCCCCC;
+    
+}
+.about{
+    padding:8px 16px;
+}
+
+
+.cont:hover{
+    color: #000;
+    background-color: #CCCCCC;
+    
+
+}
+.cont{
+    margin-left: 30px;
+    padding:8px 16px;
+    
+
+}
+.menu:hover{
+    color: #000;
+    background-color: #CCCCCC;
+    padding:8px 16px;
+}
+.menu{
+    margin-left: 30px;
+    padding:8px 16px;
+
+}
+
 .image{
     align-items: center;
     padding-left: 150px;
@@ -115,11 +150,21 @@ body{
 .contact{
     letter-spacing: 2px;
     font-size: 40px;
+    padding: 8px 16px;
+    padding-bottom: 30px;
 }
 .aboutus{
     color: #7D95A0;
     font-size: 20px;
     padding-bottom: 20px;
+    margin-right: 20px;
+    padding: 8px 16px;
+    
+}
+.more{
+    padding: 8px 16px;
+    padding-top: 20px;
+
 }
 .container{
     width: 400px;
@@ -149,14 +194,30 @@ body{
     padding-top: 20px;
 
 }
-.message{
+.message:hover{
+    color: #000;
     background-color: #CCCCCC;
+}
+
+.message{
     margin-top:30px;
     margin-bottom: 20px; 
     border: none; 
     padding:8px 16px;
+
 }
-.Director{
+
+.director{
+    text-align: center!important;
+    background-color:#f1f1f1 ;
+    line-height: 2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 15px;
+    
+    
 
 }
 
